@@ -1,0 +1,7 @@
+#Sat Jan 14 16:33:05 GST 2017
+base.0=E\:\\mobile\\acm1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eab0dcaf9a421df23efa6acd884801521c08a514
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\mobile\\acm1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e5a8682662c4b50ae1b7aa3f8be0bf9e0eb109d0\\classes.dex
+base.1=E\:\\mobile\\acm1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e5a8682662c4b50ae1b7aa3f8be0bf9e0eb109d0
+file.0=E\:\\mobile\\acm1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eab0dcaf9a421df23efa6acd884801521c08a514\\classes.dex

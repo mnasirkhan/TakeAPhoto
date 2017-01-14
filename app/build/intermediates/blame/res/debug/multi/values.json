@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "E:\\mobile\\acm1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "E:\\mobile\\acm1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 80,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "E:\\mobile\\acm1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 80,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 68,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "E:\\mobile\\acm1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 63,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "E:\\mobile\\acm1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 84,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "E:\\mobile\\acm1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
